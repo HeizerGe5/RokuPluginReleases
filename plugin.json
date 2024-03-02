@@ -1,0 +1,13 @@
+{
+	"name": "Roku Plugin",
+	"author": "Heizer",
+	"version": "1.0.0",
+	"minVersion": "1.128.3",
+	"supportedVersion": "1.128.3",
+	"basePackage": "eu.darkbot.heizer",
+	"features": [
+		"eu.darkbot.heizer.module.MineDropBP.MineDropModule"
+	],
+	"download": "https://github.com/HeizerGe5/RokuPluginReleases/releases/download/v1.0.0/RokuPlugin.jar",
+	"update": "https://github.com/HeizerGe5/RokuPluginReleases/blob/main/src/main/resources/plugin.json"
+}
